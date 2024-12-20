@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+PLEASE READ THE DESCRIPTION FIRST:
+TO VISIT THE SIGNIN PAGE PLEASE USE : localhost:3000/signin
+ROUTE!!!!
+This product is strictly frontend-based and does not involve any backend integration. The routing and other interactions are handled using React.
+Here are a few alternative suggestions that could have been implemented:
 
-## Getting Started
+1. I did not notice the selection button in the hero section and the sign-in section; I mistook it for a different kind of button. As a result, I used two types of buttons: blue for the primary button and white for the secondary button.
+2. There is a significant margin issue that occurs at medium to large screen sizes (1100-1400px). I tried various solutions, but I couldn't resolve it without rebuilding the component. To avoid complications, I decided to leave this error uncorrected. Other than that, there are no additional errors. I would appreciate the opportunity to learn from my mistakes and receive guidance on this matter.
+3. The navbar section was intended to be fixed. However, after building the entire page, I did not make any changes to avoid further complications.
+4. Grids could have been utilized in the hero section to prevent these errors, but that would have made the code appear lengthy and disorganized.
 
-First, run the development server:
+I acknowledge that there are a few mistakes, but I built this within a tight time frame due to the holiday season. I would be very grateful for the chance to learn from my errors, as highlighted above. I guarantee that every single line of code is hand-written; nothing is AI-generated or copied. I look forward to a positive response.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Thank you.
