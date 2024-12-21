@@ -8,6 +8,7 @@ Here are a few alternative suggestions that could have been implemented:
 2. There is a significant margin issue that occurs at screen sizes (1100-1400px). I tried various solutions, but I couldn't resolve it without rebuilding the component. To avoid complications, I decided to leave this error uncorrected. Other than that, there are no additional errors. I would appreciate the opportunity to learn from my mistakes and receive guidance on this matter.
 3. The navbar section was intended to be fixed. However, after building the entire page, I did not make any changes to avoid further complications.
 4. Grids could have been utilized in the hero section to prevent these errors, but that would have made the code appear lengthy and disorganized.
+5. Map function could have been used to avoid excess coding, but data had to be hard coded anyways so I did not use any of that.
 
 I acknowledge that there are a few mistakes, but I built this within a tight time frame due to the holiday season. I would be very grateful for the chance to learn from my errors, as highlighted above. I guarantee that every single line of code is hand-written; nothing is AI-generated or copied. I look forward to a positive response.
 
